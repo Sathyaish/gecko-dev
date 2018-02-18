@@ -25,3 +25,4 @@ This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mo
 15. [The HTML5 page on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 16. [Gecko](https://wiki.mozilla.org/Gecko:Home_Page) page on the Mozilla Wiki
 17. A quick [HTML5 tutorial](https://www.tutorialspoint.com/html5/html5_syntax.htm) on Tutorials Point
+18. [HTML5 Became a Standard, HTML 5.1 and HTML 5.2 on the Way](http://www.lesliesikos.com/html5-became-a-standard-html-5-1-and-html-5-2-on-the-way/)
