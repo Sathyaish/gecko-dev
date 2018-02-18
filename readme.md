@@ -5,8 +5,9 @@ This is my private fork of Mozill's Gecko-Dev repository (https://github.com/moz
 Gecko (https://en.wikipedia.org/wiki/Gecko_(software)) is the web browser engine that powers Mozilla, Firefox and a whole (https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Versions) bunch of other software.
 
 
-Related links:
-1. Gecko on the Wikipedia (https://en.wikipedia.org/wiki/Gecko_(software))
+
+#### Related links
+1. [Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) on the Wikipedia
 2. Spider Monkey on the Wikipedia (https://en.wikipedia.org/wiki/SpiderMonkey)
 3. Gecko page on the Mozilla website (https://developer.mozilla.org/en-US/docs/Mozilla/Gecko)
 4. List of layout engines (https://en.wikipedia.org/wiki/List_of_layout_engines)
