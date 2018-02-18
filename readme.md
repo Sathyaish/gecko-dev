@@ -35,3 +35,4 @@ This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mo
 25. [Shadow DOM](https://www.w3.org/TR/shadow-dom/)
 26. [Comparison of HTML5 and Flash](https://en.wikipedia.org/wiki/Comparison_of_HTML5_and_Flash) -- Note: Steve Job's publicly issued letter in 2010-ish fucked [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash) in the ass. They consequently announced a withdrawal of Flash distribution and support by 2020.
 27. [XHTML](https://en.wikipedia.org/wiki/XHTML)
+28. [Polyglot markup](https://en.wikipedia.org/wiki/Polyglot_markup) but the doctor explains it better in a single sentence.
