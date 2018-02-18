@@ -2,7 +2,7 @@
 
 This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mozilla/gecko-dev). This repository contains the source code for Gecko and Spidermonkey.
 
-Gecko (https://en.wikipedia.org/wiki/Gecko_(software)) is the web browser engine that powers Mozilla, Firefox and a [whole](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Versions) bunch of other software.
+[Gecko](https://en.wikipedia.org/wiki/Gecko_(software)) is the web browser engine that powers Mozilla, Firefox and a [whole](https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Versions) bunch of other software.
 
 
 
@@ -21,7 +21,7 @@ Gecko (https://en.wikipedia.org/wiki/Gecko_(software)) is the web browser engine
 12 [This extremely helpful HTML file](https://github.com/KDE/khtml/blob/master/docs/DESIGN.html) that outlines the process by which KHTML works.
 12. [Google's V8 JavaScript engine](https://en.wikipedia.org/wiki/Chrome_V8)/. [V8 source on github](https://github.com/v8/v8). [V8 page on Google](https://developers.google.com/v8/)
 13. [Webkit's](https://github.com/WebKit/webkit) [Webcore source](https://github.com/WebKit/webkit/tree/master/Source/WebCore).
-14. HTML5 Specification - [multipage](https://html.spec.whatwg.org/multipage/), [developer]()
+14. HTML5 Specification - [multipage](https://html.spec.whatwg.org/multipage/), [developer](https://html.spec.whatwg.org/dev/)
 15. [The HTML5 page on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 16. [Gecko](https://wiki.mozilla.org/Gecko:Home_Page) page on the Mozilla Wiki
 17. A quick [HTML5 tutorial](https://www.tutorialspoint.com/html5/html5_syntax.htm) on Tutorials Point
