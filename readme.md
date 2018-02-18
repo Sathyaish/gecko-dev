@@ -25,7 +25,7 @@ This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mo
 15. [The HTML5 page on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 16. [Gecko](https://wiki.mozilla.org/Gecko:Home_Page) page on the Mozilla Wiki
 17. A quick [HTML5 tutorial](https://www.tutorialspoint.com/html5/html5_syntax.htm) on Tutorials Point
-18. [HTML5 Became a Standard, HTML 5.1 and HTML 5.2 on the Way](http://www.lesliesikos.com/html5-became-a-standard-html-5-1-and-html-5-2-on-the-way/)
+18. [HTML5 Became a Standard, HTML 5.1 and HTML 5.2 on the Way](http://www.lesliesikos.com/html5-became-a-standard-html-5-1-and-html-5-2-on-the-way/). [This doctor Leslie F. Sikos](https://www.lesliesikos.com/) explains many things nicely.
 19. [Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML))
 20. The [Canvas element](https://en.wikipedia.org/wiki/Canvas_element).
 21. [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics)
@@ -33,3 +33,5 @@ This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mo
 23. [Scene graph](https://en.wikipedia.org/wiki/Scene_graph)
 24. [Canvas fingerprinting](https://en.wikipedia.org/wiki/Canvas_fingerprinting) is one of a number of browser fingerprinting techniques of tracking online users that allow websites to identify and track visitors using HTML5 canvas element. The technique received wide media coverage in 2014 after researchers from Princeton University and KU Leuven University described it in their paper [The Web never forgets](https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html).The privacy concerns regarding canvas fingerprinting centre around the fact that even deleting cookies and clearing the cache will not be sufficient for users to avoid online tracking.
 25. [Shadow DOM](https://www.w3.org/TR/shadow-dom/)
+26. [Comparison of HTML5 and Flash](https://en.wikipedia.org/wiki/Comparison_of_HTML5_and_Flash) -- Note: Steve Job's publicly issued letter in 2010-ish fucked [Adobe Flash](https://en.wikipedia.org/wiki/Adobe_Flash) in the ass. They consequently announced a withdrawal of Flash distribution and support by 2020.
+27. [XHTML](https://en.wikipedia.org/wiki/XHTML)
