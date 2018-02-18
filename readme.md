@@ -37,4 +37,4 @@ This is my private fork of Mozill's [Gecko-Dev repository](https://github.com/mo
 27. [XHTML](https://en.wikipedia.org/wiki/XHTML)
 28. [Polyglot markup](https://en.wikipedia.org/wiki/Polyglot_markup) but the doctor explains it better in a single sentence.
 29. [Browser fingerprinting](https://en.wikipedia.org/wiki/Device_fingerprint), also known as **Device Fingerprint** or **Machine Fingerprint**.
-30. A really beautiful explanation of [what shadow DOM is](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/). This guy is so knowledgeable and he writes so well.
+30. A really beautiful explanation of [what shadow DOM is](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/). This guy, Dimitri Glazkov, is so knowledgeable and he writes so well.
